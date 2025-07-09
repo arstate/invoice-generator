@@ -1,0 +1,6 @@
+{
+  "name": "ARSTATE CINEMA - Invoice Generator",
+  "description": "A web application to create, preview, and download client invoices for ARSTATE CINEMA. Fill in the details, preview the invoice, and download it as a PDF.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
